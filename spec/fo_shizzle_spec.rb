@@ -1,5 +1,5 @@
 require('rspec')
-require('shiz')
+require('fo_shizzle')
 
 describe('String#shiz') do
 # change 's' to 'z'

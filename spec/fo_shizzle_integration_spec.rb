@@ -1,4 +1,4 @@
-require(capybara/rspec)
+require('capybara/rspec')
 require('./app')
 Capybara.app=Sinatra::Application
 
