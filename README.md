@@ -9,15 +9,17 @@ Fo Shizzle is a program that translates a users sentence into "Snoop Dogg speak"
 Setup:
 ------
 
-Fo Shizzle uses ruby version 2.2.0. After you download Fo Shizzle navigate to the 'fo_shizzle' file folder in your terminal. Then run the following command to install the Gemfile:
+Fo Shizzle uses ruby version 2.2.0. 
 
-$ bundle install
+1. After you download Fo Shizzle navigate to the 'fo_shizzle' file folder in your terminal. Then run the following      command to install the Gemfile:
 
-next run ruby app.rb in the terminal
+   $ bundle install
 
-$ ruby app.rb
+2. Run ruby app.rb in the terminal
 
-and in your browser navigate to the url: localhost:4567.
+   $ ruby app.rb
+
+3. In your browser navigate to the url: localhost:4567.
 
 Copyright and Licensing:
 ------------------------
